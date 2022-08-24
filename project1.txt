@@ -14,6 +14,7 @@ Oranges are orange:
 [ ] The Teams Site
 [ ] Email
 [ ] Blackboard
+[ ] Canvas
 [ ] Course Plus
 [ ] SIS
 
@@ -46,6 +47,6 @@ Oranges are orange:
 [ ] Over the Slack group
 [ ] Over Blackboard
 
-7. Create a notebook on google colab. Have it do the simple calculation 4 + 4 in a code chunk. Add one text chunk. Save that notebook as notebook1.ipynb, add it to this repository, commit the changes then push it to your github repo to submit.
+7. Create an ipython notebook. Have one markdown cell and one python cell. Put some text in the markdown cell and a simple calculation in the python cell (like 2+2) and run it. Commit the file to your assignment repo.
 
-8. Add a markdown file to this repository titled document1.md. Add a section titled Section 1, a subsection titled Subsection A and some bold text and italic text.
+8. Add a markdown file to your assignment repository titled document1.md. Add a section titled Section 1, a subsection titled Subsection A and some bold text and italic text.
