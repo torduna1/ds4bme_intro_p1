@@ -31,13 +31,13 @@ Oranges are orange:
 
 4. Unless otherwise stated, the projects are due:
 [ ] Sundays at 5 PM 
-[ ] Mondays at 5 PM
+[X] Mondays at 5 PM
 [ ] Tuesdays at 5 PM
 [ ] Wednesdays at 5 PM
 
 5. Projects will be submitted via:
 [ ] The teams site
-[ ] Github classroom
+[x] Github classroom
 [ ] Personal git repos 
 [ ] Blackboard
 
